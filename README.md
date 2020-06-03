@@ -4,3 +4,9 @@
 
 This app was intended to increase and better my understanding of React (hooks). And to have a fun game to play when in downtime. 
 
+You can check it out [here](https://dazzling-saha-e04698.netlify.app/)
+
+## Technologies used 
+
+* React
+* Styled-Components
