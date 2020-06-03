@@ -6,6 +6,8 @@ This app was intended to increase and better my understanding of React (hooks). 
 
 You can check it out [here](https://dazzling-saha-e04698.netlify.app/)
 
+![actionPhoto](/src/img/tetris-action-photo.png)
+
 ## Technologies used 
 
 * React
